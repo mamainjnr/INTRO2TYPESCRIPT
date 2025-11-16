@@ -42,7 +42,7 @@ if (isAvailable) {
 function printId(id) {
   console.log("User ID is:", id);
 }
-printId(101);
+printId(yeah);
 printId("abc123");
 
 // Write your solution below this line
